@@ -1,5 +1,14 @@
-// Place your settings in this file to overwrite default and user settings.
-{
+Hola(strong)
+Pagina.html// Place your settings in this file to overwrite default and user settings.
+{head)
+(body)
+</body>
+</html>
+<scriptExplorerAction>
+a=1
+b=2
+("el valor de a+b es¨+(a+b))
+</script>
   "git.branchProtection": [
     "main"
   ],
